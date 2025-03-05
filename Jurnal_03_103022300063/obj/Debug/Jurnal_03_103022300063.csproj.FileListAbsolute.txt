@@ -1,0 +1,10 @@
+D:\adit\Jurnal_03_103022300063\bin\Debug\Jurnal_03_103022300063.exe.config
+D:\adit\Jurnal_03_103022300063\bin\Debug\Jurnal_03_103022300063.exe
+D:\adit\Jurnal_03_103022300063\bin\Debug\Jurnal_03_103022300063.pdb
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.csproj.AssemblyReference.cache
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.Form1.resources
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.Properties.Resources.resources
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.csproj.GenerateResource.cache
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.csproj.CoreCompileInputs.cache
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.exe
+D:\adit\Jurnal_03_103022300063\obj\Debug\Jurnal_03_103022300063.pdb
